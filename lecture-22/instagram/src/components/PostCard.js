@@ -17,6 +17,8 @@ const useStyles = makeStyles((theme) => ({
   root: {
     width: "95%",
     margin: "20px 0px",
+    marginLeft: "auto",
+    marginRight: "auto",
   },
   media: {
     height: 0,
